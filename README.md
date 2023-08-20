@@ -13,4 +13,4 @@ Deployment steps:
 5. Add more blocks of functions to this code to make it look more customized and unique
 
 ![Alt text](assets/image.png)
-![Alt text](iassets/mage-1.png)
+![Alt text](assets/mage-1.png)
